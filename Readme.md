@@ -8,10 +8,10 @@ It allows you to:
 + Normalize intensities  
 + Resize images  
 + Convert bit depth  
-+ Export to multiple formats (**TIFF**, **NIfTI**, **DICOM**, etc.)
++ Export to multiple formats (TIFF, NIfTI, DICOM, etc.)
 ```
 
-Developed on **Linux (Ubuntu 22.04)** and tested with **Python 3.x**.
+Developed on **Linux (Ubuntu 22.04)** and tested with **Python 3.12.4**.
 
 ---
 
@@ -141,22 +141,11 @@ All steps log progress and details to the console.
 
 ---
 
-## 🟢 Example Usage
-
-### Run via Bash Script
-
-bash scripts/run.sh
-
-
-*(Make sure you edit `scripts/run.sh` to set your desired parameters.)*
-
----
 
 ## License
 
 Distributed under the **MIT License**.
 
----
 
 ## Contact
 
